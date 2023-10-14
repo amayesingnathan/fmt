@@ -1,5 +1,7 @@
 .vscode/
 .vs/
+**.vcxproj
+**.vcxproj.filters
 
 *.iml
 .idea/
